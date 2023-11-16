@@ -1,4 +1,4 @@
-# CSV-Customer-Info-DirWalker
+# CSV Customer Info DirWalker
 
 ## Overview
 CSV-Customer-Info-DirWalker is a C# program designed to efficiently traverse a directory structure containing CSV files with customer information. The program utilizes the DirWalker.cs file to navigate through the dataset, implementing robust logging, error handling, and data processing functionalities.
