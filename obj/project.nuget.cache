@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HwCgTKaIZw0bNFrrF9OOvNUfV/vYma63HST5Oj9jM1YB2Q3N3NH+8EL/D3ykgTCxbCFpFaVCl5rS7Tv2zkEEaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sivle\\Desktop\\5510_SWE\\assignment\\ProgAssign1\\ProgAssign1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sivle\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
